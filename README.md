@@ -1,4 +1,4 @@
-# ADN
+# ADN IN SERVERLESS
 
 Instrucciones:
 
@@ -66,7 +66,7 @@ curl -X GET \
 
 ```
 
-El siguiente comando ejecuta los test:
+El siguiente comando ejecuta los test unitarios:
 
 ```sh
   npm run test
