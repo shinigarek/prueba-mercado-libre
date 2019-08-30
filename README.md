@@ -66,9 +66,10 @@ curl -X GET \
 
 ```
 
-El siguiente comando ejecuta los test unitarios:
+El siguiente comando ejecuta los test unitarios y además entrega la información del coverage:
 
 ```sh
   npm run test
 ```
+
 # By Ezequiel Obreque
