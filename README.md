@@ -1,4 +1,4 @@
-# ADN IN SERVERLESS
+# ADN/SERVERLESS
 
 Instrucciones:
 
