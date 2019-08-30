@@ -1,6 +1,6 @@
-# ADNS
+# ADN
 
-Instrucciones para probar metodo local:
+Instrucciones:
 
 ```sh
 // Descargar proyecto GIT:
@@ -14,7 +14,7 @@ node index.js
 
 ```
 
-Si quiere agregar nuevos adns, debe ir al archivo index.js agregar las siguientes líneas:
+Si desea agregar nuevos adn`s, debe ir al archivo index.js y agregar las siguientes líneas:
 
 ```sh
 
@@ -66,4 +66,9 @@ curl -X GET \
 
 ```
 
+El siguiente comando ejecuta los test:
+
+```sh
+  npm run test
+```
 # By Ezequiel Obreque
